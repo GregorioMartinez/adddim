@@ -1,4 +1,4 @@
-#adddim
+# adddim
 
 A small cross-platform utility to add dimensions of images to file name.
 
